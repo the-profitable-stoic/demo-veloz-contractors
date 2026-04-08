@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-veloz-contractors.dream-surge.com/sitemap-index.xml

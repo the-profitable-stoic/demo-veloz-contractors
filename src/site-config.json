@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Veloz Contractors",
+    "phone": "+17865061891",
+    "category": "general contractor",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-red-charge",
+      "categoryGroup": "general-contractor",
+      "name": "Red Charge",
+      "recipeFile": "general-contractor/red-charge.astro",
+      "colors": {
+        "primary": "#1E3A5F",
+        "primaryDark": "#0F1D30",
+        "primaryLight": "#c7ced7",
+        "secondary": "#1b3456",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1E3A5F",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Trusted General Contractor",
+      "heroSubline": "Building and Renovating South Florida Homes with Integrity. Veloz Contractors: Quality Craftsmanship, Lasting Results.",
+      "aboutTitle": "Building Miami, Brick by Brick",
+      "aboutText": [
+        "Veloz Contractors was founded over a decade ago by a Miami native, driven by a passion for quality construction and a commitment to our community. We saw a need for reliable, trustworthy contractors who understood the unique challenges of building in South Florida.",
+        "Our approach is simple: treat every project as if it were our own home. We prioritize clear communication, meticulous planning, and exceptional workmanship. We believe in building long-term relationships with our clients based on trust and transparency.",
+        "We're proud to be a part of the Miami community and are committed to giving back. We regularly support local charities and organizations, and we strive to use sustainable practices in all our projects to help preserve our beautiful environment."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Miami-Dade building codes, permitting, and environmental factors."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced team dedicated to delivering exceptional results with attention to detail."
+        },
+        {
+          "title": "Transparent Communication",
+          "description": "Open and honest communication throughout the entire project, from initial consultation to final walkthrough."
+        },
+        {
+          "title": "Reliable & Trustworthy",
+          "description": "We stand behind our work and are committed to exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Let's Build Something Amazing Together!",
+      "ctaSubline": "Get a free consultation and discover how Veloz Contractors can bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "residential-remodeling",
+        "name": "Residential Remodeling",
+        "shortDescription": "Transform your Miami home with our complete remodeling services.",
+        "description": "Veloz Contractors specializes in transforming outdated or underutilized spaces into beautiful and functional living areas. Whether you're looking to remodel your kitchen, bathroom, or entire home, we have the expertise to bring your vision to life. We understand the unique challenges of remodeling older Miami homes, from navigating permitting regulations to dealing with potential structural issues. Our team will work closely with you to develop a customized plan that meets your needs and budget. \n\n We handle every aspect of the remodeling process, from demolition and construction to electrical, plumbing, and finishing touches. We only use high-quality materials and employ skilled tradespeople to ensure lasting results. We also understand the importance of minimizing disruption to your daily life during the remodeling process. We will work efficiently and respectfully to complete your project on time and within budget. \n\n From modernizing a classic Art Deco bathroom in South Beach to completely reconfiguring a Coconut Grove kitchen, Veloz Contractors brings creative solutions to every project. We'll help you select the perfect finishes and fixtures to create a space that reflects your personal style and enhances your lifestyle. Let us help you create the home of your dreams.",
+        "process": [
+          "Step 1: Initial Consultation & Design – We discuss your vision, budget, and timeline.",
+          "Step 2: Detailed Planning & Permitting – We create detailed plans and obtain all necessary permits.",
+          "Step 3: Construction & Remodeling – Our skilled team executes the plan with precision and care.",
+          "Step 4: Final Inspection & Walkthrough – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Living Space"
+        ],
+        "faq": [
+          {
+            "question": "How long will my remodeling project take?",
+            "answer": "The timeframe depends on the scope of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to obtain permits for my remodeling project?",
+            "answer": "In most cases, yes. We will handle all necessary permitting to ensure compliance with local building codes."
+          },
+          {
+            "question": "What if unexpected issues arise during the remodel?",
+            "answer": "We have extensive experience dealing with unforeseen challenges and will work with you to find the best solutions."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-renovations",
+        "name": "Kitchen Renovations",
+        "shortDescription": "Create your dream kitchen with our expert renovation services in Miami.",
+        "description": "The kitchen is the heart of the home, and Veloz Contractors specializes in creating stunning and functional kitchens that meet the unique needs of Miami families. Whether you're looking for a complete kitchen overhaul or a simple refresh, we'll work with you to design a space that reflects your style and enhances your lifestyle. We understand the specific demands of Miami kitchens, from humidity and moisture resistance to maximizing space in smaller condos. \n\n Our team can handle every aspect of your kitchen renovation, including cabinet installation, countertop replacement, appliance upgrades, and custom lighting. We partner with leading suppliers to offer a wide selection of high-quality materials and finishes. From sleek, modern designs to classic, traditional styles, we can create a kitchen that perfectly complements your home. \n\n We'll also ensure that your new kitchen is energy-efficient and environmentally friendly. We can install energy-efficient appliances, LED lighting, and water-saving fixtures to help you reduce your carbon footprint and save money on your utility bills. Let Veloz Contractors transform your kitchen into a culinary masterpiece.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your vision and create a detailed design plan.",
+          "Step 2: Material Selection – We help you choose the perfect cabinets, countertops, and appliances.",
+          "Step 3: Demolition & Installation – Our skilled team handles all aspects of the renovation process.",
+          "Step 4: Final Touches & Inspection – We ensure your complete satisfaction with the finished kitchen."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Cooking Space"
+        ],
+        "faq": [
+          {
+            "question": "What is the average cost of a kitchen renovation in Miami?",
+            "answer": "The cost varies depending on the size and scope of the project. We provide detailed estimates during the initial consultation."
+          },
+          {
+            "question": "How long does a kitchen renovation typically take?",
+            "answer": "Most kitchen renovations take between 4-8 weeks, depending on the complexity of the design."
+          },
+          {
+            "question": "Can you help me choose the right appliances for my kitchen?",
+            "answer": "Yes, we can provide expert guidance on selecting appliances that meet your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Upgrade your bathroom with our expert remodeling services in Miami.",
+        "description": "Veloz Contractors specializes in creating luxurious and functional bathrooms that meet the unique needs of Miami homeowners. Whether you're looking to update an outdated bathroom or create a spa-like retreat, we have the expertise to bring your vision to life. We understand the challenges of bathroom remodeling in Miami, from dealing with moisture and humidity to maximizing space in smaller bathrooms. \n\n Our team can handle every aspect of your bathroom remodel, including tile installation, vanity replacement, shower and tub upgrades, and custom lighting. We partner with leading suppliers to offer a wide selection of high-quality materials and fixtures. From modern, minimalist designs to classic, elegant styles, we can create a bathroom that perfectly complements your home. \n\n We'll also ensure that your new bathroom is water-efficient and environmentally friendly. We can install low-flow toilets, showerheads, and faucets to help you conserve water and save money on your utility bills. Let Veloz Contractors transform your bathroom into a relaxing and rejuvenating oasis.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your vision and create a detailed design plan.",
+          "Step 2: Material Selection – We help you choose the perfect tiles, vanities, and fixtures.",
+          "Step 3: Demolition & Installation – Our skilled team handles all aspects of the renovation process.",
+          "Step 4: Final Touches & Inspection – We ensure your complete satisfaction with the finished bathroom."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Spa Retreat"
+        ],
+        "faq": [
+          {
+            "question": "What is the most popular bathroom remodeling trend in Miami?",
+            "answer": "Spa-inspired bathrooms with features like rainfall showers and freestanding tubs are very popular."
+          },
+          {
+            "question": "How can I maximize space in a small bathroom?",
+            "answer": "We can help you choose space-saving fixtures and storage solutions to make the most of your space."
+          },
+          {
+            "question": "What type of tile is best for a Miami bathroom?",
+            "answer": "Porcelain and ceramic tiles are excellent choices for their durability and water resistance."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Miami home with our expert roofing repair and replacement services.",
+        "description": "Veloz Contractors provides comprehensive roofing services to protect your home from the harsh Miami weather. From minor repairs to complete roof replacements, we have the expertise to ensure your roof is in top condition. We understand the unique challenges of roofing in South Florida, including hurricane-force winds, intense sun, and salt air corrosion. \n\n Our team is experienced in working with a variety of roofing materials, including tile, shingle, and metal. We use only high-quality materials and employ skilled roofing professionals to ensure lasting results. We also offer roof inspections to identify potential problems before they become major issues. \n\n Whether you need a minor repair to fix a leak or a complete roof replacement, Veloz Contractors is here to help. We'll provide a free estimate and work with you to find the best roofing solution for your needs and budget. Protect your investment with our reliable roofing services.",
+        "process": [
+          "Step 1: Roof Inspection – We assess the condition of your roof and identify any potential problems.",
+          "Step 2: Detailed Estimate – We provide a free, no-obligation estimate for the necessary repairs or replacement.",
+          "Step 3: Professional Installation – Our skilled team installs your new roof with precision and care.",
+          "Step 4: Final Inspection & Clean-Up – We ensure your complete satisfaction with the finished roof."
+        ],
+        "benefits": [
+          "Enhanced Protection from the Elements",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, especially after a major storm."
+          },
+          {
+            "question": "What are the signs that I need a new roof?",
+            "answer": "Signs include leaks, missing shingles, and excessive granule loss."
+          },
+          {
+            "question": "What type of roofing material is best for Miami?",
+            "answer": "Tile, shingle, and metal roofs are all popular choices in Miami, each with its own advantages."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-work",
+        "name": "Concrete Work",
+        "shortDescription": "Durable and reliable concrete solutions for your Miami property.",
+        "description": "Veloz Contractors offers a full range of concrete services for residential and commercial properties in Miami. We understand the importance of strong, durable concrete in South Florida's challenging climate. From driveways and patios to foundations and slabs, we have the expertise to handle any concrete project. We use high-quality materials and proven techniques to ensure lasting results. \n\n Our team is experienced in all aspects of concrete work, including pouring, finishing, and repairs. We can also create decorative concrete features, such as stamped concrete and colored concrete. Whether you need a new driveway, a repaired patio, or a solid foundation for your home, Veloz Contractors is here to help. \n\n We understand the importance of proper drainage and reinforcement in Miami's wet environment. We'll ensure that your concrete project is built to withstand the elements and provide long-lasting performance. Trust us for all your concrete needs.",
+        "process": [
+          "Step 1: Site Preparation – We prepare the site by clearing debris and leveling the ground.",
+          "Step 2: Formwork & Reinforcement – We build the necessary forms and install reinforcement bars.",
+          "Step 3: Concrete Pouring & Finishing – We pour and finish the concrete according to your specifications.",
+          "Step 4: Curing & Sealing – We cure and seal the concrete to ensure maximum strength and durability."
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Enhanced Durability",
+          "Improved Aesthetics",
+          "Long-Lasting Performance"
+        ],
+        "faq": [
+          {
+            "question": "How thick should my concrete driveway be?",
+            "answer": "A typical concrete driveway should be at least 4 inches thick."
+          },
+          {
+            "question": "What is stamped concrete?",
+            "answer": "Stamped concrete is concrete that is textured or patterned to resemble brick, stone, or other materials."
+          },
+          {
+            "question": "How long does it take for concrete to cure?",
+            "answer": "Concrete typically takes 28 days to fully cure."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Painting Services",
+        "shortDescription": "Professional interior and exterior painting services to beautify your Miami home.",
+        "description": "Veloz Contractors provides professional painting services for residential and commercial properties in Miami. We understand the importance of a fresh coat of paint in enhancing the beauty and value of your home. From interior walls to exterior surfaces, we have the expertise to deliver exceptional results. We use high-quality paints and proven techniques to ensure a flawless finish. \n\n Our team is experienced in all aspects of painting, including surface preparation, priming, and painting. We can also help you choose the perfect colors to complement your home's style and décor. Whether you need a complete interior repaint or a touch-up on your exterior trim, Veloz Contractors is here to help. \n\n We understand the importance of protecting your furniture and belongings during the painting process. We'll take the necessary precautions to ensure that your property is protected from paint splatters and spills. Trust us for all your painting needs.",
+        "process": [
+          "Step 1: Surface Preparation – We prepare the surfaces by cleaning, sanding, and repairing any imperfections.",
+          "Step 2: Priming – We apply a primer to ensure proper adhesion and a uniform finish.",
+          "Step 3: Painting – We apply the paint in multiple coats to achieve a smooth, even finish.",
+          "Step 4: Clean-Up – We clean up the work area and remove any paint debris."
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Enhanced Aesthetics",
+          "Improved Curb Appeal",
+          "Protection from the Elements"
+        ],
+        "faq": [
+          {
+            "question": "What type of paint is best for a Miami home?",
+            "answer": "Exterior paints should be resistant to moisture, mildew, and UV rays. Interior paints should be durable and easy to clean."
+          },
+          {
+            "question": "How many coats of paint should I apply?",
+            "answer": "We typically recommend applying two coats of paint for optimal coverage and durability."
+          },
+          {
+            "question": "How long does it take to paint a house?",
+            "answer": "The timeframe depends on the size and complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Veloz Contractors is proud to offer comprehensive general contractor services to Fort Lauderdale, Florida. Known for its extensive canal system and beautiful waterfront properties, Fort Lauderdale presents unique construction and renovation opportunities. We understand the specific needs of homeowners in this area, particularly those with homes built in the 1960s and 70s, and are experienced in addressing the challenges of waterfront construction and the impact of year-round heat and humidity.",
+        "localContext": "Our team is skilled in renovating and updating these classic homes while maintaining their original charm and structural integrity. Fort Lauderdale's unique climate demands durable and weather-resistant construction materials, which we prioritize in all our projects.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Wilton Manors",
+          "Hollywood"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Veloz Contractors extends its expert general contractor services to Coral Springs, Florida. As a planned community developed primarily in the 1980s and 90s, Coral Springs features many homes with similar architectural styles and construction techniques. We have extensive experience working within these communities and understand the common renovation and remodeling needs of homeowners in this area. Our goal is to enhance the value and functionality of your home while respecting the aesthetic of the neighborhood.",
+        "localContext": "We are familiar with the permitting processes and regulations specific to Coral Springs, ensuring a smooth and efficient project from start to finish. The year-round heat and humidity require specialized attention to roofing, insulation, and moisture management, which we expertly handle.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Veloz Contractors is dedicated to providing top-quality general contractor services in Pembroke Pines, Florida. A city known for its planned developments from the 1990s onward, Pembroke Pines offers a mix of residential styles. We are experienced in handling a wide range of home improvement projects, from kitchen and bathroom renovations to complete home remodels. Our team is committed to delivering exceptional craftsmanship and customer satisfaction.",
+        "localContext": "We understand the importance of energy efficiency and hurricane preparedness in Pembroke Pines, given the local climate. We offer solutions to improve your home's resilience and reduce your energy consumption. ",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Veloz Contractors proudly serves Boca Raton, Florida, offering premier general contractor services to this discerning community. Known for its luxury waterfront estates and upscale residences, Boca Raton demands the highest standards of quality and craftsmanship. We specialize in high-end renovations, custom home builds, and exquisite outdoor living spaces. Our team is dedicated to exceeding your expectations and creating the home of your dreams.",
+        "localContext": "We are well-versed in the unique architectural styles and building codes of Boca Raton, ensuring that your project is both beautiful and compliant. The year-round heat and humidity require careful consideration of materials and construction techniques to ensure longevity and durability.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Highland Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Veloz Contractors is pleased to offer its general contractor expertise to West Palm Beach, Florida. With its rich history and diverse architecture, including many homes from the 1920s to 1950s, West Palm Beach presents unique renovation and restoration opportunities. Our team has a passion for preserving the character of these historic homes while incorporating modern amenities and functionality. We are committed to providing exceptional service and quality workmanship.",
+        "localContext": "We are experienced in navigating the historic preservation guidelines and regulations in West Palm Beach. The year-round heat and humidity can take a toll on older homes, so we utilize specialized techniques and materials to ensure their long-term health and beauty.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "Veloz Contractors provides comprehensive general contracting services throughout Miami, Florida. As a dynamic and diverse city with a wide range of architectural styles, Miami presents unique construction and renovation challenges and opportunities. From modern high-rises to historic Art Deco buildings, our team has the expertise to handle any project. We are committed to delivering exceptional results and exceeding your expectations.",
+        "localContext": "We understand the specific building codes and regulations in Miami, ensuring a smooth and efficient project from start to finish. Miami's climate requires careful consideration of materials and construction techniques to withstand hurricanes and the constant exposure to heat and humidity.",
+        "nearbyAreas": [
+          "Miami Beach",
+          "Coral Gables",
+          "Hialeah"
+        ]
+      },
+      {
+        "city": "Hialeah",
+        "slug": "hialeah-fl",
+        "state": "FL",
+        "content": "Veloz Contractors is proud to serve the Hialeah, Florida community with top-notch general contracting services. Hialeah's unique blend of residential and commercial properties requires a contractor that understands the local landscape. We offer a full suite of services, from home renovations to commercial build-outs, ensuring quality and satisfaction every step of the way. Our commitment is to provide reliable and efficient service to the residents and businesses of Hialeah.",
+        "localContext": "We are familiar with Hialeah's permitting processes and strive to make every project hassle-free. The climate demands durable construction, and we prioritize using materials that withstand the heat and humidity.",
+        "nearbyAreas": [
+          "Miami Lakes",
+          "Doral",
+          "Miami Springs"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Veloz Contractors extends its expert general contractor services to Miramar, Florida. Characterized by its family-friendly neighborhoods and diverse housing options, Miramar presents a range of renovation and construction needs. We are experienced in providing solutions that enhance the value and functionality of homes in Miramar, focusing on quality craftsmanship and attention to detail. Our goal is to make your vision a reality, creating spaces that reflect your unique style and needs.",
+        "localContext": "We understand the importance of energy efficiency and hurricane preparedness in Miramar homes, and we offer solutions to improve your home's resilience and reduce energy consumption. Navigating Miramar's building codes is also a key part of our service.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Weston"
+        ]
+      },
+      {
+        "city": "Plantation",
+        "slug": "plantation-fl",
+        "state": "FL",
+        "content": "Veloz Contractors provides professional general contracting services in Plantation, Florida. Known for its lush landscaping and well-maintained properties, Plantation demands a high standard of quality. We specialize in renovations, additions, and remodeling projects that enhance the beauty and functionality of your home. Our team is dedicated to providing exceptional service and exceeding your expectations.",
+        "localContext": "We are familiar with Plantation's specific building codes and regulations, ensuring a smooth and efficient project. The climate requires careful planning for landscaping and outdoor spaces to withstand the heat and humidity.",
+        "nearbyAreas": [
+          "Davie",
+          "Sunrise",
+          "Fort Lauderdale"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Kitchen Renovation",
+        "text": "Veloz Contractors did an amazing job on my kitchen remodel! They transformed my old, outdated kitchen into a modern, functional space. The team was professional, courteous, and always on time. I highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "I had a leak in my roof after a recent storm, and Veloz Contractors responded quickly and efficiently. They repaired the damage and provided a thorough inspection to ensure there were no other issues. Great service!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Bathroom Remodeling",
+        "text": "I absolutely love my new bathroom! Veloz Contractors took my vision and turned it into a reality. The quality of the workmanship is outstanding, and the attention to detail is impeccable. Thank you!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Concrete Work",
+        "text": "Veloz Contractors poured a new concrete patio for my backyard, and it looks fantastic. The team was professional, efficient, and the price was very reasonable. I would definitely use them again.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 4,
+        "service": "Painting Services",
+        "text": "I hired Veloz Contractors to paint the interior of my condo, and they did a great job. The colors look beautiful, and the finish is flawless. The team was respectful of my property and cleaned up thoroughly after the job was done.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Residential Remodeling",
+        "text": "We hired Veloz to remodel our entire home in Coconut Grove, and we couldn't be happier. They handled everything from the design to the finishing touches, and the result is stunning. They understand the unique challenges of remodeling older homes in Miami and delivered a fantastic result.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Veloz Contractors | Miami General Contractor",
+        "description": "Reliable general contractor in Miami, FL. Kitchen & bath remodeling, roofing, concrete & more. Call +17865061891 for a free quote!"
+      },
+      "about": {
+        "title": "About Veloz Contractors | Miami, FL",
+        "description": "Learn about Veloz Contractors, a trusted general contractor in Miami. Our commitment to quality, integrity, and customer satisfaction."
+      },
+      "services": {
+        "title": "Veloz Contractors Services | Miami, FL",
+        "description": "Explore our comprehensive general contractor services in Miami. Kitchen remodeling, bathroom renovations, roofing, concrete work, and more."
+      },
+      "contact": {
+        "title": "Contact Veloz Contractors | Miami, FL",
+        "description": "Contact Veloz Contractors for your next home project. Get a free consultation and estimate. Call us at +17865061891."
+      },
+      "reviews": {
+        "title": "Veloz Contractors Reviews | Miami, FL",
+        "description": "Read reviews from satisfied Veloz Contractors customers in Miami. See why we're the trusted choice for general contracting services."
+      },
+      "service-areas": {
+        "title": "Veloz Contractors Service Areas",
+        "description": "Veloz Contractors provides general contractor services in the Miami metro area, including Fort Lauderdale, Coral Springs, and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-remodeling": "/images/service-residential-remodeling.webp",
+      "kitchen-renovations": "/images/service-kitchen-renovations.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "concrete-work": "/images/service-concrete-work.webp",
+      "painting-services": "/images/service-painting-services.webp"
+    },
+    "servicesResponsive": {
+      "residential-remodeling": {
+        "src": "/images/service-residential-remodeling.webp",
+        "srcset": "/images/service-residential-remodeling-400w.webp 400w, /images/service-residential-remodeling-800w.webp 800w, /images/service-residential-remodeling-1200w.webp 1200w, /images/service-residential-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-renovations": {
+        "src": "/images/service-kitchen-renovations.webp",
+        "srcset": "/images/service-kitchen-renovations-400w.webp 400w, /images/service-kitchen-renovations-800w.webp 800w, /images/service-kitchen-renovations-1200w.webp 1200w, /images/service-kitchen-renovations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-work": {
+        "src": "/images/service-concrete-work.webp",
+        "srcset": "/images/service-concrete-work-400w.webp 400w, /images/service-concrete-work-800w.webp 800w, /images/service-concrete-work-1200w.webp 1200w, /images/service-concrete-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
